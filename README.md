@@ -12,5 +12,3 @@ use of semantic elements so that:
   clicked, the rest of the lorem-insum element is toggled.
 
 
-
-## Exercise 2
